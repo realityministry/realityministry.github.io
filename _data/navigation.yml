@@ -1,9 +1,21 @@
 main:
   - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
+    url: /posts/media/
   - title: "About"
-    url: /about/
+    url: /about/inivitation_letter/
+
+posts:
+  - title: "Posts"
+    children:
+      - title: "Media"
+        url: /posts/media/
+      - title: "Blog"
+        url: /posts/blog/
+
+about:
+  - title: "About"
+    children:
+      - title: "Inivtation Letter"
+        url: /about/inivitation_letter/
+      - title: "Team"
+        url: /about/team/

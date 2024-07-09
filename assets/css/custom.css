@@ -1,0 +1,99 @@
+/* ============================== Global Settings ============================== */
+
+html {
+  font-size: 18px; /* Adjust this value as needed */
+}
+
+a {
+  text-decoration: none;
+}
+
+/* ============================== Top Menu ============================== */
+
+.masthead {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: #EEEEEE;  /* Top-menu */
+}
+
+.masthead__inner-wrap, .greedy-nav, .greedy-nav .visible-links a {
+  background-color: transparent;
+}
+
+/* Text style */
+.greedy-nav a, .search__toggle {
+  color: #424242;
+}
+
+.greedy-nav a:hover, .greedy-nav a:focus, .search__toggle:hover {
+  color: #82B53E;
+}
+
+.greedy-nav .visible-links a, .greedy-nav .visible-links a:hover, .greedy-nav .visible-links a:focus {
+  text-decoration: none !important;
+  border-bottom: none !important;
+}
+
+.greedy-nav .visible-links a::before, .greedy-nav .visible-links a::after {
+  display: none !important;
+}
+
+/* Top-menu height */
+.masthead__inner-wrap {
+  padding: 0.75em;
+}
+
+/* ============================== Top Menu: Title & Logo ============================== */
+
+.site-title {
+  font-size: 1.5em;
+}
+
+.author__avatar img {
+    max-width: 150px; 
+    border-radius: 0;
+}
+
+
+/*.masthead {*/
+/*  height: auto;*/
+/*  min-height: 50px; !* Adjust this value as needed *!*/
+/*}*/
+
+/*.greedy-nav {*/
+/*  height: auto;*/
+/*  min-height: 50px; !* Should match the masthead min-height *!*/
+/*}*/
+
+/*.greedy-nav .site-title {*/
+/*  padding: 0.25em 0; !* Adjust vertical padding of the site title *!*/
+/*  font-size: 1.2em; !* Adjust font size if needed *!*/
+/*}*/
+
+/*.greedy-nav .visible-links a {*/
+/*  padding: 0.5em 0; !* Adjust vertical padding of the menu items *!*/
+/*}*/
+
+/*!* If you're using a logo, you might need to adjust its size *!*/
+/*.site-logo img {*/
+/*  max-height: 40px; !* Adjust as needed *!*/
+/*}*/
+
+/* ============================== Sidebar: Navigation Menu ============================== */
+
+/* All navigation items */
+.nav__list .nav__items a {
+    font-size: 1.2em;
+}
+
+/* Navigation section titles */
+.nav__list .nav__items .nav__sub-title {
+    font-size: 1em;
+}
+
+ Optionally, for nested navigation items 
+.nav__list .nav__items .nav__item .nav__items a {
+    font-size: 1em;
+}
