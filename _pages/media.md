@@ -1,8 +1,8 @@
 ---
-permalink: /posts/media/
-title: "Media"
+permalink: /posts/news/
+title: "News"
 layout: category
-taxonomy: Media
+taxonomy: News
 sidebar:
     nav: "posts"
 ---

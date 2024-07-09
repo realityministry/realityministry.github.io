@@ -2,20 +2,20 @@ main:
   - title: "Posts"
     url: /posts/media/
   - title: "About"
-    url: /about/inivitation_letter/
+    url: /about/invitation_letter/
 
 posts:
   - title: "Posts"
     children:
       - title: "Media"
         url: /posts/media/
-      - title: "Blog"
-        url: /posts/blog/
+      - title: "News"
+        url: /posts/news/
 
 about:
   - title: "About"
     children:
       - title: "Inivtation Letter"
-        url: /about/inivitation_letter/
+        url: /about/invitation_letter/
       - title: "Team"
         url: /about/team/

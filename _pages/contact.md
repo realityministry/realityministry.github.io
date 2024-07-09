@@ -1,7 +1,7 @@
 ---
 title: "Inivtation Letter "
-permalink: /about/inivitation_letter/
-layout: letter
+permalink: /about/contact/
+layout: single
 sidebar:
     nav: "about"
 date: 2023-06-01
