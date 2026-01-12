@@ -1,11 +1,12 @@
 ---
 title: Fondant Media Conference 2024
 authors: [jdchoi]
-tags: [AI, Talk]
+tags: [AI]
 ---
 
-Dr. Jinho D. Choi delivered a keynote speech at the [Fondant Media Conference 2024](https://www.fondant.kr/series/00090200-0000-0000-0000-00000002ac8e) hosted by [Christian Global Network](https://www.cgnkorea.net) (CGN), exploring what values AI will teach the next generation and its implications for Christian faith and education.
+Dr. Jinho D. Choi delivered a keynote speech at the [**Fondant Media Conference 2024**](https://www.fondant.kr/series/00090200-0000-0000-0000-00000002ac8e) (퐁당 미디어 콘퍼런스 2024), hosted by [Christian Global Network](https://www.cgnkorea.net) (CGN) in Seoul, South Korea.
 
+Title: What values will AI teach the next generation (AI는 어떤 가치관을 가지고 다음 세대를 가르치게 될 것인가)?
 <div className="media-container">
   <div className="video-wrapper">
     <iframe 

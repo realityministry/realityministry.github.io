@@ -2,6 +2,28 @@
 
 /** @type {import('@docusaurus/plugin-content-docs').SidebarsConfig} */
 const sidebars = {
+  aboutSidebar: [
+    {
+      type: 'category',
+      label: 'About',
+      collapsed: false,
+      items: [
+        {
+          type: 'doc',
+          id: 'about/our-vision',
+        },
+        {
+          type: 'doc',
+          id: 'about/our-team',
+        },
+        {
+          type: 'doc',
+          id: 'about/contact-us',
+        },
+      ],
+    }
+  ],
+
   evangelismSidebar: [
     {
       type: 'category',
@@ -17,11 +39,6 @@ const sidebars = {
           type: 'doc',
           id: 'ministry/evangelism/gospel-bookmark',
           label: 'Gospel Bookmark',
-        },
-        {
-          type: 'doc',
-          id: 'ministry/evangelism/praise-worship',
-          label: 'Praise & Worship',
         },
       ],
     }

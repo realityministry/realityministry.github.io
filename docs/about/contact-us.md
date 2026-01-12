@@ -1,6 +1,5 @@
 ---
 title: Contact Us
-parent: About
 description: Get in touch with REALITY Ministry
 ---
 

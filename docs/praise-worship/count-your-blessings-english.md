@@ -6,9 +6,9 @@ title: Count Your Blessings
 
 <h3>Johnson Oatman</h3>
 
-## English Lyrics
+## Lyrics
 
-**[Opening]**  
+**[Intro]**  
 One two three, One two and three four (x2)  
 
 **[Verse]**  

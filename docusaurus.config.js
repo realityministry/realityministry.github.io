@@ -140,7 +140,7 @@ const config = {
             position: 'left',
             items: [
               {
-                to: '/about/vision',
+                to: '/about/our-vision',
                 label: 'Our Vision',
               },
               {
@@ -167,6 +167,14 @@ const config = {
                 to: '/ministry/mission-trips',
                 label: 'Mission Trips',
               },
+              {
+                type: 'html',
+                value: '<hr style="margin: 0.5rem 0;">',
+              },
+              {
+                to: '/ministry/praise-worship',
+                label: 'Praise & Worship',
+              },
             ],
           },
           {
@@ -177,10 +185,6 @@ const config = {
               {
                 href: 'https://cotlministry.com',
                 label: 'Children of the Light',
-              },
-              {
-                href: 'https://soundcloud.com/children-of-the-light/sets/praise-worship',
-                label: 'Praise & Worship',
               },
               {
                 type: 'docSidebar',

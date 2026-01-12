@@ -1,6 +1,5 @@
 ---
 title: Our Vision
-parent: About
 description: Meet the REALITY Ministry team
 ---
 
