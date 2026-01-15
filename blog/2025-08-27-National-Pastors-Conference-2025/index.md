@@ -11,7 +11,7 @@ Title: The Age of AI and Church (AI 시대와 교회)
 <div className="media-container">
   <div className="video-wrapper">
     <iframe 
-      src="https://www.youtube.com/embed/NIo-SSBnZyA" 
+      src="https://www.youtube.com/embed/Ufwjg1C4mi0" 
       frameBorder="0" 
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
       allowFullScreen>
