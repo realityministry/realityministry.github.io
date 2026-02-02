@@ -4,7 +4,7 @@ title: 당신은 사랑받기 위해 태어난 사람 (Tú Naciste para Recibir 
 
 # 당신은 사랑받기 위해 태어난 사람 (Tú Naciste para Recibir Amor)
 
-<h3>Original Song: 이민섭 (Minsup Lee); Translation: Song4Jesus</h3>
+<h3>Original Song: 이민섭 (Minsup Lee) | Translation: Song4Jesus</h3>
 
 ## Lyrics
 

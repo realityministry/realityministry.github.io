@@ -4,7 +4,7 @@ title: 당신은 사랑받기 위해 태어난 사람 (You Are Created to Receiv
 
 # 당신은 사랑받기 위해 태어난 사람 (You Are Created to Receive the Greatest Love)
 
-<h3>Original Song: 이민섭 (Minsup Lee); Translation: Jinho D. Choi</h3>
+<h3>Original Song: 이민섭 (Minsup Lee) | Translation: Jinho D. Choi</h3>
 
 
 ## Lyrics

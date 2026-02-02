@@ -23,9 +23,9 @@ We begin each evangelism with praise and worship, creating a joyful atmosphere t
 ## Korean
 
 - 당신은 사랑받기 위해 태어난 사람 (You Are Created to Receive the Greatest Love) *by 이민섭 (Minsup Lee)* - [English](/praise-worship/you-are-created-to-receive-the-greatest-love-english) | [Spanish](/praise-worship/you-are-created-to-receive-the-greatest-love-spanish) | [Korean](/praise-worship/you-are-created-to-receive-the-greatest-love-korean)
+- 예수 예수 예수 (Jesus, Jesus, Jesus) *by 배지완 (Jiwan Bae)* - [English](/praise-worship/jesus-jesus-jesus-english) | [Spanish](/praise-worship/jesus-jesus-jesus-spanish) | [Korean](/praise-worship/jesus-jesus-jesus-korean)
 - [주 나의 사랑, 나 주의 사랑 (Jesus My Love, I'm His Love)](/praise-worship/jesus-my-love-im-his-love) - 홍승영
 - [부르신 곳에서 (At the Place Where You Call)](/praise-worship/at-the-place-where-you-call) - 김준영, 송은정
-- [예수 예수 예수 (Jesus, Jesus, Jesus)](/praise-worship/jesus-jesus-jesus) - 배지완
 
 ## Spanish
 

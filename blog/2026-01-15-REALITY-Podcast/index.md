@@ -1,5 +1,5 @@
 ---
-title: REALITY Podcast - What will AI Teach the Next Generation?
+title: What will AI Teach the Next Generation?
 authors: [jdchoi]
 tags: [AI]
 ---
